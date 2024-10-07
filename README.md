@@ -10,3 +10,5 @@ Responsive Design: Ensures optimal viewing on various devices and screen sizes.
 **Technologies Used**
 HTML5: For structuring the web page and content.
 CSS3: For styling, layout, and responsiveness.
+
+**Link** -> https://modernchair6.netlify.app/
